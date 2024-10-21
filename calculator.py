@@ -1,4 +1,4 @@
-
+## small calculator program
 
 
 svar = input("Vill du räkna? (y/n)")
